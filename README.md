@@ -1,2 +1,2 @@
-# Poker-Game-Project
-I constructed a game of Texas Hold'em using arrays, 2D arrays, loops, exception handling, and JUnit Testing.
+# Poker Game Project♠️
+I constructed a game of Texas Hold'em using arrays, 2D arrays, loops, exception handling, and JUnit Testing. This project simulates the functionality of a poker game, including dealing hands, evaluating winning combinations, and managing player actions. It demonstrates the application of key programming concepts such as object-oriented design and test-driven development to ensure robust and error-free gameplay. The game logic was extensively tested using JUnit to validate hand evaluations and game outcomes.
